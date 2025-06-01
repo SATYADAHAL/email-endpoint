@@ -10,7 +10,7 @@ import textwrap
 import html
 from datetime import datetime
 
-# Configure logging
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
